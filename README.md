@@ -15,7 +15,7 @@ __Multiple unannounced projects__ at [Saber Interactive](https://saber3d.com) (S
 
 [__SnowRunner__](https://store.steampowered.com/app/1465360/SnowRunner) at [Saber Interactive](https://saber3d.com) (Dec 2018 -  Sep 2020)
 Off-road simulation game. 80+ metacritic score. 2+ mil copies sold.
-![[snowrunner.png|384x216]]
+<img src="images/snowrunner.png" width="384">
 - ps4 / xbox-one porting and certification stuff
 - save system
 - multiplayer
@@ -32,24 +32,24 @@ Off-road simulation game. 80+ metacritic score. 2+ mil copies sold.
 
 [__WWZ__](https://store.steampowered.com/app/699130/World_War_Z_Aftermath/) at [Saber Interactive](https://saber3d.com) (Oct 2018 - Nov 2018)
 Co-op third person shooter. 70+ metacritic score 3+ mil copies sold.
-![[wwz.jpg|384x216]]
+<img src="images/wwz.jpg" width="384">
 - minor gameplay bugfixes
 
 [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018)
 VR experience
-![[mfa.png|384]]
+<img src="images/mfa.png" width="384">
 - project management
 - gameplay logic
 
 [__Alice in Wonderland AR match-3__](https://apps.apple.com/us/app/alice-in-wonderland-ar-match-3/id1339580099) at [Avatarico](https://avatarico.com) (Nov 2017 - Apr 2018)
 Match-3 game in AR
-![[alicematch3.png|384]]
+<img src="images/alicematch3.png" width="384">
 - project management
 - gameplay logic
 
 [__Alice in Wonderland AR quest__](https://apps.apple.com/us/app/alice-in-wonderland-ar-quest/id1279423433) at [Avatarico](https://avatarico.com) (Aug 2017 - Jan 2018)
 AR quest 
-![[alicear.jpg|384x216]]
+<img src="images/alicear.jpg" width="384">
 - ui code
 - gameplay logic
 - statistics
@@ -59,7 +59,7 @@ AR quest
 
 [__Dracula: Vampires vs. Zombies__](https://store.steampowered.com/app/667010/Dracula_Vampires_vs_Zombies/) at [Avatarico](https://avatarico.com) (Mar 2017 - Nov 2017)
 VR wave shooter
-![[draculavr.jpg|384]]
+<img src="images/draculavr.jpg" width="384">
 - core gameplay
 - characters logic
 - asset integration
@@ -68,7 +68,7 @@ VR wave shooter
 
 [__Alice in Wonderland VR Quest__](https://avatarico.com/product/alice) at [Avatarico](https://avatarico.com) (Jan 2017 - Apr 2017)
 quest for VR escape rooms 
-![[alicevr.jpg|384]]
+<img src="images/alicevr.jpg" width="384">
 - core gameplay features
 - game logic
 - specialized shader code
@@ -77,7 +77,7 @@ quest for VR escape rooms
 
 [__MindHorror VR Quest__](https://avatarico.com/product/mind-horror) at [Avatarico](https://avatarico.com) (Jul 2016 - Dec 2017)
 quest for VR escape rooms 
-![[mindhorrorvr.png|384]]
+<img src="images/mindhorrorvr.png" width="384">
 - gameplay mechanics development
 - asset interation and setup
 - performance optimization
@@ -88,7 +88,7 @@ quest for VR escape rooms
 
 [__Cosmos VR Quest__](https://avatarico.com/product/cosmos) at [Avatarico](https://avatarico.com) (2016 - 2018)
 quest for VR escape rooms 
-![[cosmosvr.png|384]]
+<img src="images/cosmosvr.png" width="384">
 - various bugfixes
 - support
 
