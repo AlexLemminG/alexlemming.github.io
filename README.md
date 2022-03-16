@@ -2,7 +2,7 @@
 _Software engineer, Game developer based in St. Petersburg, Russia_<br>
 [Email](mailto:zherebtsovalexander@gmail.com) / [Telegram](https://t.me/aZherebtsov) / [LinkedIn](https://www.linkedin.com/in/alexander-zherebtsov-17b952aa/) / [GitHub](https://github.com/AlexLemminG) /  [Itch.io](https://alexlemming.itch.io)
 
-__6+ years experience__ in game development
+__5+ years experience__ in game development
 
 __10+ projects__ from b2b VR quests and mobile AR games to console games with 80+ metacritic score and millions copies sold
 
