@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 author_profile: true
 # logo: "/images/avatar.png"
@@ -27,3 +27,6 @@ author:
 
 include:
   - _pages
+  
+plugins:
+  - jekyll-include-cache
