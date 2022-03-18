@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
-description: Alexander Zherebtsov's CV
 markdown: kramdown
-title: WOW
+title: CV
+author_profile: true
 author:
   name             : "Alexander Zherebtsov"
+  github           : "AlexLemminG"
+  avatar           : "images/avatar.jpg"
+  twitter          : "Alex_lemminG"
+  linkedin         : "https://www.linkedin.com/in/alexander-zherebtsov-17b952aa/"
