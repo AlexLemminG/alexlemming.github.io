@@ -2,19 +2,10 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 title: CV
 author_profile: true
-logo: "/images/avatar.jpg"
+# logo: "/images/avatar.jpg"
 author:
   name             : "Alexander Zherebtsov"
   github           : "AlexLemminG"
   avatar           : "/images/avatar.jpg"
   twitter          : "Alex_lemminG"
   linkedin         : "https://www.linkedin.com/in/alexander-zherebtsov-17b952aa/"
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: false
