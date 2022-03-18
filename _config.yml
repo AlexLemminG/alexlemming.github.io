@@ -3,7 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 author_profile: true
 title: "Alexander Zherebtsov"
-# logo: "/images/avatar.png"
+# logo: "/images/avatar.jpg"
 author:
   name             : "Alexander Zherebtsov"
   avatar           : "/images/avatar.jpg"

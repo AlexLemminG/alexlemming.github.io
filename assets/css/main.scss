@@ -34,3 +34,6 @@ body {
 	animation-delay: 0.15s;
 	z-index: 20;
 }
+.sidebar.sticky {
+	overflow-y: visible;
+}
