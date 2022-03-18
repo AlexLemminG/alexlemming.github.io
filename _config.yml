@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 author:
   name             : "Alexander Zherebtsov"
   avatar           : "images/avatar.jpg"
+  github           : "AlexLemminG"
+  linkedin         : "https://www.linkedin.com/in/alexander-zherebtsov-17b952aa/"
+  email            : "zherebtsovalexander@gmail.com"
