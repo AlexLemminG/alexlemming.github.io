@@ -4,7 +4,6 @@
 
 @charset "utf-8";
 
-
 body {
   font-size: 18px;
 }
@@ -15,11 +14,6 @@ body {
 .site-title {
   display: none;
   visibility: hidden;
-}
-.masthead{
-border-bottom {
-border-bottom-width: 0px;
-}
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
