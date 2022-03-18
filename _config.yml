@@ -2,10 +2,12 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 author_profile: true
+title: "Alexander Zherebtsov"
 # logo: "/images/avatar.png"
 author:
   name             : "Alexander Zherebtsov"
-  avatar           : "/images/avatar.png"
+  avatar           : "/images/avatar.jpg"
+  bio: "Software/Game Developer"
   links:
     - label: "Email"
       icon: "fas fa-envelope-square"
@@ -25,6 +27,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter-square"
       url: "https://twitter.com/Alex_lemminG"
+      
+atom_feed:
+  hide: true
 
 include:
   - _pages
