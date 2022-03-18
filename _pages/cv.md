@@ -1,6 +1,6 @@
 ---
 author_profile: true
-permalink: /cv/
+permalink: /
 title: CV
 ---
 
