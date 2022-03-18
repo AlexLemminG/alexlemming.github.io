@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-{% include base_path %}
-
 # Alexander Zherebtsov
 _Software engineer, Game developer based in St. Petersburg, Russia_<br>
 [Email](mailto:zherebtsovalexander@gmail.com) / [Telegram](https://t.me/aZherebtsov) / [LinkedIn](https://www.linkedin.com/in/alexander-zherebtsov-17b952aa/) / [GitHub](https://github.com/AlexLemminG) /  [Itch.io](https://alexlemming.itch.io)
