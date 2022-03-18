@@ -6,7 +6,7 @@ logo: "/images/avatar.jpg"
 author:
   name             : "Alexander Zherebtsov"
   github           : "AlexLemminG"
-  avatar           : "avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   twitter          : "Alex_lemminG"
   linkedin         : "https://www.linkedin.com/in/alexander-zherebtsov-17b952aa/"
 
@@ -17,9 +17,4 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
