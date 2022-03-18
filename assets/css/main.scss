@@ -14,11 +14,7 @@ body {
   margin-right: auto;
   width: 50%;
 }
-.page{
-	@media {
-	  padding-right: 100px;
-	}
-}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
