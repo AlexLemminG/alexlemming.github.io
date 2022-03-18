@@ -1,5 +1,8 @@
 ---
+title: "CV"
 ---
+
+{% include base_path %}
 
 # Alexander Zherebtsov
 _Software engineer, Game developer based in St. Petersburg, Russia_<br>
