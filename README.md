@@ -79,7 +79,7 @@ quest for VR escape rooms<br>
 quest for VR escape rooms<br>
 <img src="images/mindhorrorvr.png" width="384">
 - gameplay mechanics development
-- asset interation and setup
+- asset integration and setup
 - performance optimization
 - specialized shader code
 - bugfixes
