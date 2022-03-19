@@ -5,12 +5,17 @@
 @charset "utf-8";
 
 body {
-  font-size: 18px;
+  font-size: 17px;
 }
-.screenshot {
+
+img.screenshot {
   float: right;
   width: 200px;
 }
+ul {
+	padding-left: 2em;
+}
+
 .site-title {
   display: none;
   visibility: hidden;
@@ -19,20 +24,8 @@ body {
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
-
-.page {
-	padding-right: 200px;
-}
-
 .masthead {
-	position: relative;
-	border-bottom: 0px solid #f2f3f3;
-	-webkit-animation: intro 0.3s both;
-	animation: intro 0.3s both;
-	-webkit-animation-delay: 0.15s;
-	animation-delay: 0.15s;
-	z-index: 20;
+	border-bottom-style: hidden
 }
 .sidebar.sticky {
 	overflow-y: visible;

@@ -23,7 +23,8 @@ From ***high-level*** gameplay to ***low-level*** engine programming
 - NDA 😅
 
 ### [__SnowRunner__](https://store.steampowered.com/app/1465360/SnowRunner) at [Saber Interactive](https://saber3d.com) (Dec 2018 -  Sep 2020)
-Off-road simulation game. 80+ metacritic score. 2+ mil copies sold.<img src="images/snowrunner.png" class="screenshot">
+<a href="images/snowrunner.png"><img src="images/snowrunner.png" class="screenshot"></a>
+Off-road simulation game. 80+ metacritic score. 2m+ copies sold.
 - ps4 / xbox-one porting and certification stuff
 - save system
 - multiplayer
@@ -38,22 +39,25 @@ Off-road simulation game. 80+ metacritic score. 2+ mil copies sold.<img src="ima
 - performance optimization
 - minor features and bugfixes
 
-### [__WWZ__](https://store.steampowered.com/app/699130/World_War_Z_Aftermath/) at [Saber Interactive](https://saber3d.com) (Oct 2018 - Nov 2018)
-Co-op third person shooter. 70+ metacritic score 3+ mil copies sold.<img src="images/wwz.jpg" class="screenshot">
+### [__World War Z__](https://store.steampowered.com/app/699130/World_War_Z_Aftermath/) at [Saber Interactive](https://saber3d.com) (Oct 2018 - Nov 2018)
+<a href="images/wwz.jpg"><img src="images/wwz.jpg" class="screenshot"></a>
+Co-op third person shooter. 70+ metacritic score 3m+ copies sold.
 - minor gameplay bugfixes
 
 ### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
-VR experience<img src="images/mfa.png" class="screenshot">
+<a href="images/mfa.png"><img src="images/mfa.png" class="screenshot"></a>VR experience for VR centers and 
 - project management
 - gameplay logic
 
 ### [__Alice in Wonderland AR match-3__](https://apps.apple.com/us/app/alice-in-wonderland-ar-match-3/id1339580099) at [Avatarico](https://avatarico.com) (Nov 2017 - Apr 2018)
-Match-3 game in AR<img src="images/alicematch3.png" class="screenshot">
+<a href="images/alicematch3.png"><img src="images/alicematch3.png" class="screenshot"></a>
+AR Match-3 game for App Store
 - project management
 - gameplay logic
 
 ### [__Alice in Wonderland AR quest__](https://apps.apple.com/us/app/alice-in-wonderland-ar-quest/id1279423433) at [Avatarico](https://avatarico.com) (Aug 2017 - Jan 2018)
-AR quest<img src="images/alicear.jpg" class="screenshot">
+<a href="images/alicear.jpg"><img src="images/alicear.jpg" class="screenshot"></a>
+AR quest for App Store. 500+ positive ratings 100k+ downloads
 - ui code
 - gameplay logic
 - statistics
@@ -62,7 +66,8 @@ AR quest<img src="images/alicear.jpg" class="screenshot">
 - CLI Jenkins support  
 
 ### [__Dracula: Vampires vs. Zombies__](https://store.steampowered.com/app/667010/Dracula_Vampires_vs_Zombies/) at [Avatarico](https://avatarico.com) (Mar 2017 - Nov 2017)
-VR wave shooter<img src="images/draculavr.jpg" class="screenshot">
+<a href="images/draculavr.jpg"><img src="images/draculavr.jpg" class="screenshot"></a>
+VR wave shooter
 - core gameplay
 - characters logic
 - asset integration
@@ -70,7 +75,8 @@ VR wave shooter<img src="images/draculavr.jpg" class="screenshot">
 - support
 
 ### [__Alice in Wonderland VR Quest__](https://avatarico.com/product/alice) at [Avatarico](https://avatarico.com) (Jan 2017 - Apr 2017)
-Quest for VR escape rooms<img src="images/alicevr.jpg" class="screenshot">
+<a href="images/alicevr.jpg"><img src="images/alicevr.jpg" class="screenshot"></a>
+VR Quest for escape rooms
 - core gameplay features
 - game logic
 - specialized shader code
@@ -78,7 +84,8 @@ Quest for VR escape rooms<img src="images/alicevr.jpg" class="screenshot">
 - optimization
 
 ### [__MindHorror VR Quest__](https://avatarico.com/product/mind-horror) at [Avatarico](https://avatarico.com) (Jul 2016 - Dec 2017)
-Quest for VR escape rooms<img src="images/mindhorrorvr.png" class="screenshot">
+<a href="images/mindhorrorvr.png"><img src="images/mindhorrorvr.png" class="screenshot"></a>
+VR Quest for escape rooms
 - gameplay mechanics development
 - asset integration and setup
 - performance optimization
@@ -88,7 +95,8 @@ Quest for VR escape rooms<img src="images/mindhorrorvr.png" class="screenshot">
 - build tools
 
 ### [__Cosmos VR Quest__](https://avatarico.com/product/cosmos) at [Avatarico](https://avatarico.com) (2016 - 2018)
-Quest for VR escape rooms<img src="images/cosmosvr.png" class="screenshot">
+<a href="images/cosmosvr.png"><img src="images/cosmosvr.png" class="screenshot"></a>
+VR Quest for escape rooms
 - various bugfixes
 - support
 
