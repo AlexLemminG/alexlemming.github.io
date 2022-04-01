@@ -36,3 +36,8 @@ include:
   
 plugins:
   - jekyll-include-cache
+
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-89G0WVG5TN"
