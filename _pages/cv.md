@@ -108,6 +108,7 @@ VR Quest for escape rooms
 ## 🏆 Achievements
 - First place [St. Petersburg Unity AI Hackathon 2018](https://www.facebook.com/spbuug/posts/848477148693641) (Level Design, AI logic)
 - Best Gameplay [Gaijin Jam Hardcore 2021](https://vk.com/gaijinjam?w=wall-204949132_116) hackathon for handmade engines (Everything)
+- Best Game [Gaijin Jam #2](https://vk.com/gaijinjam?w=wall-204949132_233) game jam using custom engine and language (Everything)
 - 5th place for Fun [Ludum Dare 42](https://ldjam.com/events/ludum-dare/42/tight-space)
 
 ## 👨‍🎓 Education
