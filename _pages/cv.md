@@ -18,6 +18,8 @@ From ***high-level*** gameplay to ***low-level*** engine programming
 
 ## 🕹️ Projects
 
+### __Unannounced project__ at [Electronic Arts](https://www.ea.com) (Nov 2022 -  Present)
+- NDA 😅
 
 ### __Unannounced projects__ at [Saber Interactive](https://saber3d.com) (Sep 2020 -  Nov 2021)
 - NDA 😅
