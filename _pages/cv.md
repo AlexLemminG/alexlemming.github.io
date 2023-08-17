@@ -7,7 +7,7 @@ title: ""
 
 
 # About me
-_Software engineer, Game developer based in St. Petersburg, Russia_<br>
+_Software engineer, Game developer based in Leamington Spa, UK_<br>
 
 __5+ years__ in game development
 
