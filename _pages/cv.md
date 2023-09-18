@@ -9,7 +9,7 @@ title: ""
 # About me
 _Software engineer, Game developer based in Leamington Spa, UK_<br>
 
-__5+ years__ in game development
+__6+ years__ in game development
 
 __10+ projects__ from b2b VR quests and mobile AR games to console games with 80+ metacritic score and millions copies sold
 
@@ -18,8 +18,11 @@ From ***high-level*** gameplay to ***low-level*** engine programming
 
 ## 🕹️ Projects
 
-### __Unannounced project__ at [Electronic Arts](https://www.ea.com) (Nov 2022 -  Present)
-- NDA 😅
+### [__EA SPORTS™ WRC__](https://store.steampowered.com/app/1849250/WRC) at [Electronic Arts](https://www.ea.com) (Nov 2022 -  Present)
+<a href="images/wrc.png"><img src="images/wrc.png" class="screenshot"></a>
+Rally simulator game powered by Unreal Engine.
+- gameplay logic
+- various bugfixes
 
 ### __Unannounced projects__ at [Saber Interactive](https://saber3d.com) (Sep 2020 -  Nov 2021)
 - NDA 😅
@@ -27,7 +30,7 @@ From ***high-level*** gameplay to ***low-level*** engine programming
 ### [__SnowRunner__](https://store.steampowered.com/app/1465360/SnowRunner) at [Saber Interactive](https://saber3d.com) (Dec 2018 -  Sep 2020)
 <a href="images/snowrunner.png"><img src="images/snowrunner.png" class="screenshot"></a>
 Off-road simulation game. 80+ metacritic score. 2m+ copies sold.
-- ps4 / xbox-one porting and certification stuff
+- PS4 / Xbox-one porting and certification stuff
 - save system
 - multiplayer
 - vehicle damage system
@@ -43,7 +46,7 @@ Off-road simulation game. 80+ metacritic score. 2m+ copies sold.
 
 ### [__World War Z__](https://store.steampowered.com/app/699130/World_War_Z_Aftermath/) at [Saber Interactive](https://saber3d.com) (Oct 2018 - Nov 2018)
 <a href="images/wwz.jpg"><img src="images/wwz.jpg" class="screenshot"></a>
-Co-op third person shooter. 70+ metacritic score 3m+ copies sold.
+Co-op third-person shooter. 70+ metacritic score 3m+ copies sold.
 - minor gameplay bugfixes
 
 ### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
@@ -53,14 +56,14 @@ Co-op third person shooter. 70+ metacritic score 3m+ copies sold.
 
 ### [__Alice in Wonderland AR match-3__](https://apps.apple.com/us/app/alice-in-wonderland-ar-match-3/id1339580099) at [Avatarico](https://avatarico.com) (Nov 2017 - Apr 2018)
 <a href="images/alicematch3.png"><img src="images/alicematch3.png" class="screenshot"></a>
-AR Match-3 game for App Store
+AR Match-3 game for the App Store
 - project management
 - gameplay logic
 
 ### [__Alice in Wonderland AR quest__](https://apps.apple.com/us/app/alice-in-wonderland-ar-quest/id1279423433) at [Avatarico](https://avatarico.com) (Aug 2017 - Jan 2018)
 <a href="images/alicear.jpg"><img src="images/alicear.jpg" class="screenshot"></a>
 AR quest for App Store. 500+ positive ratings 100k+ downloads
-- ui code
+- UI code
 - gameplay logic
 - statistics
 - in-app purchases
