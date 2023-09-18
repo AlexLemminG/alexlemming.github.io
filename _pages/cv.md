@@ -19,7 +19,7 @@ From ***high-level*** gameplay to ***low-level*** engine programming
 ## 🕹️ Projects
 
 ### [__EA SPORTS™ WRC__](https://store.steampowered.com/app/1849250/WRC) at [Electronic Arts](https://www.ea.com) (Nov 2022 -  Present)
-<a href="images/wrc.png"><img src="images/wrc.png" class="screenshot"></a>
+<a href="images/wrc.jpg"><img src="images/wrc.jpg" class="screenshot"></a>
 Rally simulator game powered by Unreal Engine.
 - gameplay logic
 - various bugfixes
