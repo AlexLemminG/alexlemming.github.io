@@ -18,13 +18,20 @@ From ***high-level*** gameplay to ***low-level*** engine programming
 
 ## 🕹️ Projects
 
-### [__EA SPORTS™ WRC__](https://store.steampowered.com/app/1849250/WRC) at [Electronic Arts](https://www.ea.com) (Nov 2022 -  Present)
+### [__EA SPORTS™ FC 26__](https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25) at [Electronic Arts](https://www.ea.com) (Nov 2023 -  Present)
+<a href="images/fc25.jpg"><img src="images/fc25.jpg" class="screenshot"></a>
+- NDA 😅
+
+### [__EA SPORTS™ WRC__](https://store.steampowered.com/app/1849250/WRC) at [Electronic Arts](https://www.ea.com) (Nov 2022 -  Nov 2023)
 <a href="images/wrc.jpg"><img src="images/wrc.jpg" class="screenshot"></a>
 Rally simulator game powered by Unreal Engine.
 - gameplay logic
 - various bugfixes
 
-### __Unannounced projects__ at [Saber Interactive](https://saber3d.com) (Sep 2020 -  Nov 2021)
+### [__RoadCraft__](https://store.steampowered.com/app/2104890/RoadCraft) at [Saber Interactive](https://saber3d.com) (Sep 2020 -  Nov 2021)
+<a href="images/roadcraft.jpg"><img src="images/roadcraft.jpg" class="screenshot"></a>
+- pre-prodiction work
+- engine migration
 - NDA 😅
 
 ### [__SnowRunner__](https://store.steampowered.com/app/1465360/SnowRunner) at [Saber Interactive](https://saber3d.com) (Dec 2018 -  Sep 2020)
