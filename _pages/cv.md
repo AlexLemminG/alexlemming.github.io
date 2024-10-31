@@ -9,7 +9,7 @@ title: ""
 # About me
 _Software engineer, Game developer based in Leamington Spa, UK_<br>
 
-__6+ years__ in game development
+__8+ years__ in game development
 
 __10+ projects__ from b2b VR quests and mobile AR games to console games with 80+ metacritic score and millions copies sold
 
