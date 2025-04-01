@@ -4,11 +4,6 @@ permalink: /
 author_profile: true
 title: ""
 ---
-<style>
-#previous-projects {
-    display: inline;
-}
-</style>
 
 # About me
 _Software engineer, Game developer based in Leamington Spa, UK_<br>
@@ -61,7 +56,7 @@ Co-op third-person shooter. 70+ metacritic score 3m+ copies sold.
 - minor gameplay bugfixes
 
 <details>
-<summary><h3 id="previous-projects">Previous projects (2016 - 2018)<h3/></summary>
+<summary><b>Previous projects (2016 - 2018)<b/></summary>
 
 #### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
 <a href="images/mfa.png"><img src="images/mfa.png" class="screenshot"></a>VR experience for VR centers and 
