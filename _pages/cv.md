@@ -56,7 +56,7 @@ Off-road simulation game. 80+ metacritic score. 2m+ copies sold.
 Co-op third-person shooter. 70+ metacritic score 3m+ copies sold.
 - minor gameplay bugfixes
 
-<details>
+<details markdown="1">
 <summary><h3>Previous projects (2016 - 2018)</h3></summary>
   
 ### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
