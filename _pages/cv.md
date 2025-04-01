@@ -58,7 +58,7 @@ Co-op third-person shooter. 70+ metacritic score 3m+ copies sold.
 
 <details>
   
-<summary>Previous projects (2016 - 2018)</summary>
+<summary><h3>Previous projects (2016 - 2018)</h3></summary>
 
 ### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
 <a href="images/mfa.png"><img src="images/mfa.png" class="screenshot"></a>VR experience for VR centers and 
