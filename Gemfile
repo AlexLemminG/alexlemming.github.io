@@ -2,7 +2,9 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
-
+group :jekyll_plugins do
+  gem 'jekyll-commonmark-ghpages'
+end
 # source "https://rubygems.org"
 # gem "jekyll", "~> 4.2.2"
 # gem "minimal-mistakes-jekyll"
