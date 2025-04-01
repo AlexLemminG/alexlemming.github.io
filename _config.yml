@@ -1,6 +1,6 @@
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-markdown: CommonMarkGhPages
+markdown: GFM
 author_profile: true
 title: "Alexander Zherebtsov"
 # logo: "/images/avatar.jpg"
