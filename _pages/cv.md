@@ -58,20 +58,24 @@ Co-op third-person shooter. 70+ metacritic score 3m+ copies sold.
 
 <details>
   
-<summary><h3>Previous projects (2016 - 2018)</h3></summary>
+<summary>
+  
+### Previous projects (2016 - 2018)
 
-### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
+</summary>
+
+#### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
 <a href="images/mfa.png"><img src="images/mfa.png" class="screenshot"></a>VR experience for VR centers and 
 - project management
 - gameplay logic
 
-### [__Alice in Wonderland AR match-3__](https://apps.apple.com/us/app/alice-in-wonderland-ar-match-3/id1339580099) at [Avatarico](https://avatarico.com) (Nov 2017 - Apr 2018)
+#### [__Alice in Wonderland AR match-3__](https://apps.apple.com/us/app/alice-in-wonderland-ar-match-3/id1339580099) at [Avatarico](https://avatarico.com) (Nov 2017 - Apr 2018)
 <a href="images/alicematch3.png"><img src="images/alicematch3.png" class="screenshot"></a>
 AR Match-3 game for the App Store
 - project management
 - gameplay logic
 
-### [__Alice in Wonderland AR quest__](https://apps.apple.com/us/app/alice-in-wonderland-ar-quest/id1279423433) at [Avatarico](https://avatarico.com) (Aug 2017 - Jan 2018)
+#### [__Alice in Wonderland AR quest__](https://apps.apple.com/us/app/alice-in-wonderland-ar-quest/id1279423433) at [Avatarico](https://avatarico.com) (Aug 2017 - Jan 2018)
 <a href="images/alicear.jpg"><img src="images/alicear.jpg" class="screenshot"></a>
 AR quest for App Store. 500+ positive ratings 100k+ downloads
 - UI code
@@ -81,7 +85,7 @@ AR quest for App Store. 500+ positive ratings 100k+ downloads
 - bugfixes
 - CLI Jenkins support  
 
-### [__Dracula: Vampires vs. Zombies__](https://store.steampowered.com/app/667010/Dracula_Vampires_vs_Zombies/) at [Avatarico](https://avatarico.com) (Mar 2017 - Nov 2017)
+#### [__Dracula: Vampires vs. Zombies__](https://store.steampowered.com/app/667010/Dracula_Vampires_vs_Zombies/) at [Avatarico](https://avatarico.com) (Mar 2017 - Nov 2017)
 <a href="images/draculavr.jpg"><img src="images/draculavr.jpg" class="screenshot"></a>
 VR wave shooter
 - core gameplay
@@ -90,7 +94,7 @@ VR wave shooter
 - bugfixes
 - support
 
-### [__Alice in Wonderland VR Quest__](https://avatarico.com/product/alice) at [Avatarico](https://avatarico.com) (Jan 2017 - Apr 2017)
+#### [__Alice in Wonderland VR Quest__](https://avatarico.com/product/alice) at [Avatarico](https://avatarico.com) (Jan 2017 - Apr 2017)
 <a href="images/alicevr.jpg"><img src="images/alicevr.jpg" class="screenshot"></a>
 VR Quest for escape rooms
 - core gameplay features
@@ -99,7 +103,7 @@ VR Quest for escape rooms
 - asset integration
 - optimization
 
-### [__MindHorror VR Quest__](https://avatarico.com/product/mind-horror) at [Avatarico](https://avatarico.com) (Jul 2016 - Dec 2017)
+#### [__MindHorror VR Quest__](https://avatarico.com/product/mind-horror) at [Avatarico](https://avatarico.com) (Jul 2016 - Dec 2017)
 <a href="images/mindhorrorvr.png"><img src="images/mindhorrorvr.png" class="screenshot"></a>
 VR Quest for escape rooms
 - gameplay mechanics development
@@ -110,7 +114,7 @@ VR Quest for escape rooms
 - support
 - build tools
 
-### [__Cosmos VR Quest__](https://avatarico.com/product/cosmos) at [Avatarico](https://avatarico.com) (2016 - 2018)
+#### [__Cosmos VR Quest__](https://avatarico.com/product/cosmos) at [Avatarico](https://avatarico.com) (2016 - 2018)
 <a href="images/cosmosvr.png"><img src="images/cosmosvr.png" class="screenshot"></a>
 VR Quest for escape rooms
 - various bugfixes
