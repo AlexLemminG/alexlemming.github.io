@@ -9,9 +9,9 @@ title: ""
 # About me
 _Software engineer, Game developer based in Leamington Spa, UK_<br>
 
-__8+ years__ in game development
+__9+ years__ in game development
 
-__10+ projects__ from b2b VR quests and mobile AR games to console games with 80+ metacritic score and millions copies sold
+__10+ projects__ from b2b VR quests and mobile AR games to AAA console games with 80+ metacritic score and millions copies sold
 
 __Experience__ with various game engines, programming languages and libraries.<br>
 From ***high-level*** gameplay to ***low-level*** engine programming
@@ -56,6 +56,11 @@ Off-road simulation game. 80+ metacritic score. 2m+ copies sold.
 Co-op third-person shooter. 70+ metacritic score 3m+ copies sold.
 - minor gameplay bugfixes
 
+<details>
+<summary>
+<h3>Previous projects (2016 - 2018)</h3>
+</summary>
+  
 ### [__Magic Flight Academy__](https://store.steampowered.com/app/867580/Magic_Flight_Academy/) at [Avatarico](https://avatarico.com) (May 2017 - Jun 2018) 
 <a href="images/mfa.png"><img src="images/mfa.png" class="screenshot"></a>VR experience for VR centers and 
 - project management
@@ -111,19 +116,20 @@ VR Quest for escape rooms
 VR Quest for escape rooms
 - various bugfixes
 - support
+</details>
 
 ## 🎮 Personal Projects
+- [Game Engine/Editor](https://alexlemming.com/dev/zombiepunk/stable/editor/) with a [Demo](https://alexlemming.com/dev/zombiepunk/stable/game/) project and [native builds](https://alexlemming.com/dev/zombiepunk/stable/packaged/) for multiple platforms.
 - Jam games on [Itch.io](https://alexlemming.itch.io)
-- [Siberien](https://github.com/AlexLemminG/Siberien) Game Engine
 - [Mods](https://mod.io/members/alexlemming) for SnowRunner
 
 ## 🏆 Achievements
-- First place [St. Petersburg Unity AI Hackathon 2018](https://www.facebook.com/spbuug/posts/848477148693641) (Level Design, AI logic)
+- 1st place [EA Sports Hackathon 2024](https://www.linkedin.com/posts/easports_fc-easports-weareea-activity-7285253987426000896-q-1W?utm_source=share&utm_medium=member_desktop&rcm=ACoAABdG728B144Q7akt5g5uM6qNtBt7FOe0BfQ)
 - Best Gameplay [Gaijin Jam Hardcore 2021](https://vk.com/gaijinjam?w=wall-204949132_116) hackathon for handmade engines (Everything)
 - Best Game [Gaijin Jam #2](https://vk.com/gaijinjam?w=wall-204949132_233) game jam using custom engine and language provided by Gaijin (Everything)
+- First place [St. Petersburg Unity AI Hackathon 2018](https://www.facebook.com/spbuug/posts/848477148693641) (Level Design, AI logic)
 - 5th place for Fun [Ludum Dare 42](https://ldjam.com/events/ludum-dare/42/tight-space)
 
 ## 👨‍🎓 Education
-
 - Bachelor of Science. Applied Mathematics and Computer Science
 [Saint-Petersburg State University](https://www.math.spbu.ru/rus/) - St. Petersburg, Russia (Sep 2012 - Jul 2016)
