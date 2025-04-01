@@ -125,10 +125,10 @@ VR Quest for escape rooms
 
 ## 🏆 Achievements
 - 1st place [EA Sports Hackathon 2024](https://www.linkedin.com/posts/easports_fc-easports-weareea-activity-7285253987426000896-q-1W?utm_source=share&utm_medium=member_desktop&rcm=ACoAABdG728B144Q7akt5g5uM6qNtBt7FOe0BfQ)
-- Best Gameplay [Gaijin Jam Hardcore 2021](https://vk.com/gaijinjam?w=wall-204949132_116) hackathon for handmade engines (Everything)
 - Best Game [Gaijin Jam #2](https://vk.com/gaijinjam?w=wall-204949132_233) game jam using custom engine and language provided by Gaijin (Everything)
+- Best Gameplay [Gaijin Jam Hardcore 2021](https://vk.com/gaijinjam?w=wall-204949132_116) hackathon for handmade engines (Everything)
 - First place [St. Petersburg Unity AI Hackathon 2018](https://www.facebook.com/spbuug/posts/848477148693641) (Level Design, AI logic)
-- 5th place for Fun [Ludum Dare 42](https://ldjam.com/events/ludum-dare/42/tight-space)
+- 5th place out of 3000+ for Fun [Ludum Dare 42](https://ldjam.com/events/ludum-dare/42/tight-space)
 
 ## 👨‍🎓 Education
 - Bachelor of Science. Applied Mathematics and Computer Science
